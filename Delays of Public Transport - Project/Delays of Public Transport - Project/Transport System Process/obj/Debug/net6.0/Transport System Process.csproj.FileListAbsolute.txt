@@ -1,0 +1,15 @@
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\bin\Debug\net6.0\Transport System Process.exe
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\bin\Debug\net6.0\Transport System Process.deps.json
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\bin\Debug\net6.0\Transport System Process.runtimeconfig.json
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\bin\Debug\net6.0\Transport System Process.dll
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\bin\Debug\net6.0\Transport System Process.pdb
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\obj\Debug\net6.0\Transport System Process.csproj.AssemblyReference.cache
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\obj\Debug\net6.0\Transport System Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\obj\Debug\net6.0\Transport System Process.AssemblyInfoInputs.cache
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\obj\Debug\net6.0\Transport System Process.AssemblyInfo.cs
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\obj\Debug\net6.0\Transport System Process.csproj.CoreCompileInputs.cache
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\obj\Debug\net6.0\Transport System Process.dll
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\obj\Debug\net6.0\refint\Transport System Process.dll
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\obj\Debug\net6.0\Transport System Process.pdb
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\obj\Debug\net6.0\Transport System Process.genruntimeconfig.cache
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Transport System Process\obj\Debug\net6.0\ref\Transport System Process.dll

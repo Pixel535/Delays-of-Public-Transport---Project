@@ -1,0 +1,15 @@
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\bin\Debug\net6.0\Waiting Passenger Process.exe
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\bin\Debug\net6.0\Waiting Passenger Process.deps.json
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\bin\Debug\net6.0\Waiting Passenger Process.runtimeconfig.json
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\bin\Debug\net6.0\Waiting Passenger Process.dll
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\bin\Debug\net6.0\Waiting Passenger Process.pdb
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\obj\Debug\net6.0\Waiting Passenger Process.csproj.AssemblyReference.cache
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\obj\Debug\net6.0\Waiting Passenger Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\obj\Debug\net6.0\Waiting Passenger Process.AssemblyInfoInputs.cache
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\obj\Debug\net6.0\Waiting Passenger Process.AssemblyInfo.cs
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\obj\Debug\net6.0\Waiting Passenger Process.csproj.CoreCompileInputs.cache
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\obj\Debug\net6.0\Waiting Passenger Process.dll
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\obj\Debug\net6.0\refint\Waiting Passenger Process.dll
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\obj\Debug\net6.0\Waiting Passenger Process.pdb
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\obj\Debug\net6.0\Waiting Passenger Process.genruntimeconfig.cache
+C:\---Mati---\Moje Programy\.NET\Delays of Public Transport - Project\Delays of Public Transport - Project\Waiting Passenger Process\obj\Debug\net6.0\ref\Waiting Passenger Process.dll

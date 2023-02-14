@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Waiting Passenger Process/1.0.0": {
+        "runtime": {
+          "Waiting Passenger Process.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Waiting Passenger Process/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
